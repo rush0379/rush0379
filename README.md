@@ -1,6 +1,6 @@
 ## Hi there 👋
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/697e0e0f5c049b276550581d?variant=dark&roadmaps=full-stack%2Cfrontend" alt="roadmap.sh"/></a>
-https://roadmap.sh/card/wide/697e0e0f5c049b276550581d?variant=dark&roadmaps=full-stack%2Cfrontend
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/697e0e0f5c049b276550581d?variant=dark&roadmaps=full-stack%2Cfrontend" alt="roadmap.sh"/></a>
 
 🔭 I’m currently working on OJT. 
 🌱 I’m currently learning frontend development.
