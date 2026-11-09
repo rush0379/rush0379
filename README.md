@@ -5,3 +5,4 @@
 🔭 I recently graduated.
 
 🌱 I’m currently learning frontend development.
+ 
